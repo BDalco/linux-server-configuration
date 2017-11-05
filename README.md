@@ -3,11 +3,15 @@ Linux Server Configuration
 Linux distribution on a virtual machine, prepared to host web applications, install updates and securing it from a number of attack vectors.
 
 i. The IP address and SSH port so your server can be accessed by the reviewer.
-	a. IP address: 34.227.23.111
+	a. IP address: 13.59.95.154
+
 	b. SSH Port: 2200
+
 ii. The complete URL to your hosted web application.
-	a. http://ec2-34-227-23-111.compute-1.amazonaws.com/
+	a. http://ec2-13-59-95-154.us-east-2.compute.amazonaws.com
+
 iii. A summary of software you installed and configuration changes made.
+
 Installed Packages
 
 Package Name	
