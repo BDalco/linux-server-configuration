@@ -3,11 +3,13 @@ Linux Server Configuration
 Linux distribution on a virtual machine, prepared to host web applications, install updates and securing it from a number of attack vectors.
 
 i. The IP address and SSH port so your server can be accessed by the reviewer.
+	
 	a. IP address: 13.59.95.154
 
 	b. SSH Port: 2200
 
 ii. The complete URL to your hosted web application.
+	
 	a. http://ec2-13-59-95-154.us-east-2.compute.amazonaws.com
 
 iii. A summary of software you installed and configuration changes made.
@@ -15,19 +17,19 @@ iii. A summary of software you installed and configuration changes made.
 Installed Packages
 
 Package Name	
-finger
-apache2	
-libapache2-mod-wsgi
-ntp
-postgresql
-git
-python-setuptools
-sqlalchemy
-flask
-python-psycopg2
-oauth2
-google-api-python-client
-requests
+1. finger
+2. apache2
+3. libapache2-mod-wsgi
+4. ntp
+5. postgresql
+6. git
+7. python-setuptools
+8. sqlalchemy
+9. flask
+10. python-psycopg2
+11. oauth2
+12. google-api-python-client
+13. requests
 
 Configuration Summary
 
